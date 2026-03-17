@@ -1,5 +1,5 @@
 ---
-name: API Documentation Generator
+name: api_docs_generator
 description: A skill for discovering, extracting, and documenting HTTP API endpoints from source code to create ready-to-use documentation.
 ---
 
